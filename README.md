@@ -24,8 +24,8 @@
 
 <img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
-&nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational
-&nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that
+&nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational<br/>
+&nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that<br/>
 &nbsp;&nbsp;makes it all feel human.
 
 &nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**<br/>
