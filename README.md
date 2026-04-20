@@ -35,7 +35,9 @@
 
 <br clear="right"/>
 
-<br/>
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
 
 <!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
 
@@ -61,6 +63,10 @@
 
 <br/>
 
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
+
 <!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
 
 <div align="center">
@@ -71,15 +77,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/>
   </a>
-
-  <br/><br/>
-
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/>
   </a>
-
-  <br/><br/>
-
+  <br/>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/>
   </a>
@@ -87,6 +89,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
 
 <!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
 
@@ -135,6 +141,10 @@
 </div>
 
 <br/>
+
+<div align="center">
+  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+</div>
 
 <!-- ─── STATS ─────────────────────────────────────────────────────────── -->
 
