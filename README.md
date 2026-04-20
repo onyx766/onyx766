@@ -22,14 +22,18 @@
 
 ### &nbsp;&nbsp;The short version
 
-&nbsp;&nbsp;Full-stack AI engineer at **SAIC**, working on mission-critical federal programs.
-&nbsp;&nbsp;I wire advanced models into operational systems — API surfaces, complex state,
-&nbsp;&nbsp;and the frontend craft that makes it all feel human.
+<img align="right" width="300" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
+
+&nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational
+&nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that
+&nbsp;&nbsp;makes it all feel human.
 
 &nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**
 &nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri
 &nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color
 &nbsp;&nbsp;📫 &nbsp; Reach me at **[dfmreyes02@gmail.com](mailto:dfmreyes02@gmail.com)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -71,7 +75,13 @@
   <br/><br/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,rust,tauri,sqlite,git,vercel&theme=light" alt="backend + tools"/>
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/>
+  </a>
+
+  <br/><br/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/>
   </a>
 
 </div>
@@ -82,17 +92,47 @@
 
 <div align="center">
   <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
+
+  <br/><br/>
+
+  <table>
+    <thead>
+      <tr>
+        <th align="center">Project</th>
+        <th align="center">Stack</th>
+        <th align="center">Live</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><b><a href="https://homesprint-three.vercel.app/">HomeSprint</a></b><br/><sub>home-buying command center</sub></td>
+        <td align="center">Next.js · FastAPI · Tailwind</td>
+        <td align="center"><a href="https://homesprint-three.vercel.app/">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://sam-intel.vercel.app/">Sam Intel</a></b><br/><sub>recompete radar</sub></td>
+        <td align="center">Next.js · D3 · Supabase</td>
+        <td align="center"><a href="https://sam-intel.vercel.app/">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://vinylsheetz-archive.vercel.app/">VinylSheetz</a></b><br/><sub>crate-digger's archive</sub></td>
+        <td align="center">React · Tauri · SQLite · MusicBrainz</td>
+        <td align="center"><a href="https://vinylsheetz-archive.vercel.app/">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://project-yc9yt.vercel.app/">Mom's Beadwork</a></b><br/><sub>handmade jewelry storefront</sub></td>
+        <td align="center">Next.js · Supabase · NextAuth</td>
+        <td align="center"><a href="https://project-yc9yt.vercel.app/">site →</a></td>
+      </tr>
+      <tr>
+        <td align="center"><b><a href="https://danny-portfolio-zeta.vercel.app/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
+        <td align="center">React · Vite · Tailwind</td>
+        <td align="center"><a href="https://danny-portfolio-zeta.vercel.app/">site →</a></td>
+      </tr>
+    </tbody>
+  </table>
+
 </div>
-
-<br/>
-
-| Project | Stack | Live |
-|---|---|---|
-| **[HomeSprint](https://homesprint-three.vercel.app/)** — home-buying command center | Next.js · FastAPI · Tailwind | [site →](https://homesprint-three.vercel.app/) |
-| **[Sam Intel](https://sam-intel.vercel.app/)** — recompete radar for federal contracts | Next.js · D3 · Supabase | [site →](https://sam-intel.vercel.app/) |
-| **[VinylSheetz](https://vinylsheetz-archive.vercel.app/)** — crate-digger's archive (Tauri + web) | React · Tauri · SQLite · MusicBrainz | [site →](https://vinylsheetz-archive.vercel.app/) |
-| **[Mom's Beadwork](https://project-yc9yt.vercel.app/)** — handmade jewelry storefront | Next.js · Supabase · NextAuth | [site →](https://project-yc9yt.vercel.app/) |
-| **[Portfolio](https://danny-portfolio-zeta.vercel.app/)** — the one you're reading about | React · Vite · Tailwind | [site →](https://danny-portfolio-zeta.vercel.app/) |
 
 <br/>
 
