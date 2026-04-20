@@ -28,9 +28,9 @@
 &nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that
 &nbsp;&nbsp;makes it all feel human.
 
-&nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**
-&nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri
-&nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color
+&nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**<br/>
+&nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
+&nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
 &nbsp;&nbsp;📫 &nbsp; Reach me at **[dfmreyes02@gmail.com](mailto:dfmreyes02@gmail.com)**
 
 <br clear="right"/>
