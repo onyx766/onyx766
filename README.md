@@ -31,7 +31,7 @@
 &nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**<br/>
 &nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
 &nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[dfmreyes02@gmail.com](mailto:dfmreyes02@gmail.com)**
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[zakharovmaksym00@gmail.com](mailto:zakharovmaksym00@gmail.com)**
 
 <br clear="right"/>
 
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/daniel-montoya-1bba8421b/">
     <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="mailto:dfmreyes02@gmail.com">
+  <a href="mailto:zakharovmaksym00@gmail.com">
     <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
   </a>&nbsp;
   <a href="https://github.com/dfmontoya02">
@@ -73,18 +73,7 @@
   <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
 
   <br/><br/>
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/>
-  </a>
-  <br/>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/>
-  </a>
+<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,vite&theme=light" alt="frontend"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,java,rust,tauri,sqlite&theme=light" alt="backend"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,aws,git,vercel&theme=light" alt="infra + tools"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=solidity,rust,web3,hardhat,etherjs&theme=light" alt="blockchain"/> </a> <br/> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,cs&theme=light" alt="game dev"/> </a>
 
 </div>
 
