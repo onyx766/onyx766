@@ -90,7 +90,7 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,unity,unreal,godot,blender&theme=light" alt="game dev"/>
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender&theme=light" alt="game dev"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
