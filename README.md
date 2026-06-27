@@ -86,31 +86,23 @@
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel&theme=light" alt="infra + tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,solidity,web3,hardhat,etherjs&theme=light" alt="infra + blockchain"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=solidity,rust,web3,hardhat,etherjs&theme=light" alt="blockchain"/>
+  <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender,postgresql,mongodb,redis,nginx&theme=light" alt="game + database"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender&theme=light" alt="game dev"/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,redux,graphql,apollo,jest,cypress&theme=light" alt="devops + testing"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,nginx,linux,bash,kubernetes&theme=light" alt="database + devops"/>
+  <img src="https://skillicons.dev/icons?i=babel,webpack,cpp,go,swift,kotlin,dart,flutter&theme=light" alt="tools + mobile"/>
 </a>
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=redux,graphql,apollo,jest,cypress,babel,webpack&theme=light" alt="additional tools"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,go,swift,kotlin,dart,flutter,firebase&theme=light" alt="mobile + systems"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=light" alt="ai + iot"/>
+  <img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,opencv,raspberrypi,arduino&theme=light" alt="ai + iot"/>
 </a>
 
 </div>
