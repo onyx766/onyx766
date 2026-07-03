@@ -55,7 +55,7 @@
   <a href="mailto:onyxdev122@gmail.com">
     <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
   </a>&nbsp;
-  <a href="https://github.com/dfmontoya02">
+  <a href="https://github.com/onyx766">
     <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
   </a>
 
@@ -172,11 +172,11 @@
 
   <br/><br/>
 
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfmontoya02&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=onyx766&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
 
   <br/><br/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=dfmontoya02&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=onyx766&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
 
 </div>
 
