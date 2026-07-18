@@ -28,10 +28,10 @@
 &nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that<br/>
 &nbsp;&nbsp;makes it all feel human.
 
-&nbsp;&nbsp;🎓 &nbsp; M.Eng. + B.S. Computer Science, **Virginia Tech**<br/>
+&nbsp;&nbsp;🎓 &nbsp; M.Eng. in Computer Science, **The University of Tokyo**<br/>
 &nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
 &nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[onyxdev122@gmail.com](mailto:onyxdev122@gmail.com)**
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[masakifukunishi2000@outlook.com](mailto:masakifukunishi2000@outlook.com)**
 
 <br clear="right"/>
 
@@ -49,10 +49,10 @@
   <a href="https://onyx.name89maggiotht.workers.dev/">
     <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/daniel-montoya-1bba8421b/">
+  <a href="https://jp.linkedin.com/in/masaki-fukunishi">
     <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="mailto:onyxdev122@gmail.com">
+  <a href="mailto:masakifukunishi2000@outlook.com">
     <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
   </a>&nbsp;
   <a href="https://github.com/onyx766">
