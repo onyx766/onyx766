@@ -31,7 +31,7 @@
 &nbsp;&nbsp;🎓 &nbsp; M.Eng. in Computer Science, **The University of Tokyo**<br/>
 &nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
 &nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[masakifukunishi2000@outlook.com](mailto:masakifukunishi2000@outlook.com)**
+&nbsp;&nbsp;📫 &nbsp; Reach me at **[jackdev0322@gmail.com](mailto:jackdev0322@gmail.com)**
 
 <br clear="right"/>
 
