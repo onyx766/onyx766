@@ -25,13 +25,8 @@
 <img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
 
 &nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational<br/>
-&nbsp;&nbsp;systems — API surfaces, complex state, and the frontend craft that<br/>
+&nbsp;&nbsp;systems - API surfaces, complex state, and the frontend craft that<br/>
 &nbsp;&nbsp;makes it all feel human.
-
-&nbsp;&nbsp;🎓 &nbsp; M.Eng. in Computer Science, **The University of Tokyo**<br/>
-&nbsp;&nbsp;🛠️ &nbsp; Comfortable across the stack — React/Next, FastAPI, Rust, Tauri<br/>
-&nbsp;&nbsp;🎨 &nbsp; Partial to hand-painted UI, editorial typography, warm color<br/>
-&nbsp;&nbsp;📫 &nbsp; Reach me at **[jackdev0322@gmail.com](mailto:jackdev0322@gmail.com)**
 
 <br clear="right"/>
 
@@ -45,20 +40,6 @@
   <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
 
   <br/><br/>
-
-  <a href="https://onyx.name89maggiotht.workers.dev/">
-    <img src="https://img.shields.io/badge/Portfolio-1B4B75?style=for-the-badge&logo=vercel&logoColor=fafafa" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://jp.linkedin.com/in/masaki-fukunishi">
-    <img src="https://img.shields.io/badge/LinkedIn-B87A3D?style=for-the-badge&logo=linkedin&logoColor=fafafa" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:masakifukunishi2000@outlook.com">
-    <img src="https://img.shields.io/badge/Email-9A5555?style=for-the-badge&logo=gmail&logoColor=fafafa" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://github.com/onyx766">
-    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=fafafa" alt="GitHub"/>
-  </a>
-
 </div>
 
 <br/>
