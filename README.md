@@ -1,163 +1,226 @@
 <!-- ─────────────────────────────────────────────────────────────────────── -->
-<!--  Painterly profile README — watercolor palette from Naro-portfolio    -->
+<!--  ONYX — ARCADE CABINET PROFILE                                        -->
 <!-- ─────────────────────────────────────────────────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4b75,25:546988,50:9a5555,75:b87a3d,100:7d4a2a&height=240&section=header&text=Onyx%20Developer&fontSize=64&fontColor=fafafa&fontAlignY=40&desc=Full-Stack%20AI%20Engineer%20%E2%80%A2%20Shipping%20products%20end-to-end&descAlignY=62&descSize=17&descColor=fafafa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1b4b,30:5b21b6,60:9333ea,85:c026d3,100:22d3ee&height=220&section=header&text=ONYX&fontSize=88&fontColor=ffffff&fontAlignY=42&desc=%E2%97%86%20%20P%20L%20A%20Y%20E%20R%20%20%201%20%20%E2%97%86%20%20%20F%20U%20L%20L%20-%20S%20T%20A%20C%20K%20%20%20A%20I%20%20%20E%20N%20G%20I%20N%20E%20E%20R%20%20%E2%97%86&descAlignY=68&descSize=14&descColor=e0e7ff&animation=scaleIn" width="100%"/>
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&pause=1600&color=22D3EE&center=true&vCenter=true&width=700&height=60&lines=INSERT+COIN+TO+CONTINUE;LEVEL+UP%3A+SHIPPING+AI+AGENTS;BOSS+FIGHT%3A+PRODUCTION+DEPLOY;NEW+HIGH+SCORE+UNLOCKED)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=B87A3D&center=true&vCenter=true&width=640&lines=Building+with+AI+agents;Shipping+full-stack+products;Building+what+couldn%27t+exist+last+year;Integrating+tools+end-to-end;Chasing+the+bleeding+edge)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22d3ee,50:c026d3,100:5b21b6&height=3&section=header" width="100%" alt=""/>
 
 </div>
 
 <br/>
 
-<!-- ─── ABOUT ─────────────────────────────────────────────────────────── -->
+<!-- ─── CHARACTER SHEET ───────────────────────────────────────────────── -->
 
 <div align="center">
-  <sub><b>· &nbsp; A B O U T &nbsp; ·</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=420&lines=%E2%96%B6+CHARACTER+SHEET" alt="character sheet"/>
 </div>
 
-### &nbsp;&nbsp;The short version
+<table>
+<tr>
+<td width="58%" valign="top">
 
-<img align="right" width="220" src="https://gifdb.com/images/high/lofi-train-alone-chilling-b78fxpec0se4ttjl.gif" alt="lofi train" style="border-radius: 16px; margin-left: 20px"/>
+```
+╔══════════════════════════════════════════════╗
+║  CLASS      Full-Stack AI Engineer           ║
+║  ALIGNMENT  Ship it, then make it beautiful  ║
+║──────────────────────────────────────────────║
+║  HP   ████████████████████████████░░   94%   ║
+║  MP   ███████████████████████████░░░   88%   ║
+║  XP   ██████████████████████████████  MAX    ║
+║──────────────────────────────────────────────║
+║  PASSIVE   Reads docs before guessing        ║
+║  ULTIMATE  Zero-to-deployed in one sitting   ║
+╚══════════════════════════════════════════════╝
+```
 
-&nbsp;&nbsp;Full-stack AI engineer wiring advanced models into real, operational<br/>
-&nbsp;&nbsp;systems - API surfaces, complex state, and the frontend craft that<br/>
-&nbsp;&nbsp;makes it all feel human.
+</td>
+<td width="42%" valign="top">
 
-<br clear="right"/>
+&nbsp;
+
+**The short version**
+
+I wire advanced models into real, operational
+systems — API surfaces that hold up, complex
+state that stays honest, and the frontend
+craft that makes all of it feel human.
+
+Every repo here is a run I finished.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:c026d3,100:22d3ee&height=2&section=header" alt=""/>
 </div>
 
-<!-- ─── FIND ME ───────────────────────────────────────────────────────── -->
+<br/>
+
+<!-- ─── SKILL TREE ────────────────────────────────────────────────────── -->
 
 <div align="center">
-  <sub><b>· &nbsp; F I N D &nbsp; M E &nbsp; ·</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=420&lines=%E2%96%B6+SKILL+TREE" alt="skill tree"/>
 
   <br/><br/>
+
+<table>
+  <tr>
+    <td align="right"><sub><b>FRONTEND</b><br/>lv.&nbsp;MAX</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,redux,graphql,html&theme=dark" alt="frontend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>BACKEND</b><br/>lv.&nbsp;MAX</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=python,nodejs,fastapi,go,rust,java,nestjs,apollo&theme=dark" alt="backend"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI&nbsp;/&nbsp;ML</b><br/>lv.&nbsp;48</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,anaconda,supabase,firebase&theme=dark" alt="ai"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>DATA</b><br/>lv.&nbsp;42</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,sqlite,prisma,mysql&theme=dark" alt="data"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>INFRA</b><br/>lv.&nbsp;39</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,nginx,linux,bash,git&theme=dark" alt="infra"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>GAME&nbsp;/&nbsp;XR</b><br/>lv.&nbsp;31</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=unity,godot,cs,blender,cpp,threejs&theme=dark" alt="game"/></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>MOBILE</b><br/>lv.&nbsp;27</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,tauri,electron&theme=dark" alt="mobile"/></td>
+  </tr>
+</table>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:c026d3,100:22d3ee&height=2&section=header" alt=""/>
 </div>
+
+<br/>
+
+<!-- ─── THE ARCADE ────────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=460&lines=%E2%96%B6+THE+ARCADE" alt="the arcade"/>
+
+  <br/>
+  <sub>every commit is a pellet — the snake eats a year of work</sub>
+  <br/><br/>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RikuSato0/RikuSato0/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onyx766/onyx766/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onyx766/onyx766/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/onyx766/onyx766/output/snake.svg" width="100%" alt="snake eating my contribution graph"/>
 </picture>
-<!-- ─── TOOLKIT ───────────────────────────────────────────────────────── -->
-
-<div align="center">
-  <sub><b>· &nbsp; T O O L K I T &nbsp; ·</b></sub>
-
-  <br/><br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=light" alt="frontend"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,java,rust,fastapi,tauri,sqlite,anaconda&theme=light" alt="backend"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vercel,solidity,php,atom,laravel&theme=light" alt="infra + blockchain"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,unity,godot,blender,postgresql,mongodb,redis,nginx&theme=light" alt="game + database"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,bash,kubernetes,redux,graphql,apollo,jest,cypress&theme=light" alt="devops + testing"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=babel,webpack,cpp,go,swift,kotlin,dart,flutter&theme=light" alt="tools + mobile"/>
-</a>
-<br/>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,opencv,raspberrypi,arduino&theme=light" alt="ai + iot"/>
-</a>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:c026d3,100:22d3ee&height=2&section=header" alt=""/>
 </div>
 
-<!-- ─── FEATURED ──────────────────────────────────────────────────────── -->
+<br/>
+
+<!-- ─── HIGH SCORES ───────────────────────────────────────────────────── -->
 
 <div align="center">
-  <sub><b>· &nbsp; F E A T U R E D &nbsp; ·</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=420&lines=%E2%96%B6+HIGH+SCORES" alt="high scores"/>
 
   <br/><br/>
 
-  <table>
-    <thead>
-      <tr>
-        <th align="center">Project</th>
-        <th align="center">Stack</th>
-        <th align="center">Live</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center"><b><a href="https://homesprint-three.vercel.app/">HomeSprint</a></b><br/><sub>home-buying command center</sub></td>
-        <td align="center">Next.js · FastAPI · Tailwind</td>
-        <td align="center"><a href="https://homesprint-three.vercel.app/">site →</a></td>
-      </tr>
-      <tr>
-        <td align="center"><b><a href="https://sam-intel.vercel.app/">Sam Intel</a></b><br/><sub>recompete radar</sub></td>
-        <td align="center">Next.js · D3 · Supabase</td>
-        <td align="center"><a href="https://sam-intel.vercel.app/">site →</a></td>
-      </tr>
-      <tr>
-        <td align="center"><b><a href="https://vinylsheetz-archive.vercel.app/">VinylSheetz</a></b><br/><sub>crate-digger's archive</sub></td>
-        <td align="center">React · Tauri · SQLite · MusicBrainz</td>
-        <td align="center"><a href="https://vinylsheetz-archive.vercel.app/">site →</a></td>
-      </tr>
-      <tr>
-        <td align="center"><b><a href="https://project-yc9yt.vercel.app/">Mom's Beadwork</a></b><br/><sub>handmade jewelry storefront</sub></td>
-        <td align="center">Next.js · Supabase · NextAuth</td>
-        <td align="center"><a href="https://project-yc9yt.vercel.app/">site →</a></td>
-      </tr>
-      <tr>
-        <td align="center"><b><a href="https://onyx.name89maggiotht.workers.dev/">Portfolio</a></b><br/><sub>the one you're reading about</sub></td>
-        <td align="center">React · Vite · Tailwind</td>
-        <td align="center"><a href="https://onyx.name89maggiotht.workers.dev">site →</a></td>
-      </tr>
-    </tbody>
-  </table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=onyx766&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=C026D3&text_color=A5B4FC&ring_color=FBBF24&custom_title=RUN%20STATS" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onyx766&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=A5B4FC&custom_title=WEAPON%20USAGE" alt="top languages"/>
+
+<br/><br/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=onyx766&hide_border=true&background=0D1117&stroke=1E1B4B&ring=22D3EE&fire=C026D3&currStreakLabel=FBBF24&sideLabels=A5B4FC&dates=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="55%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1b4b75,50:b87a3d,100:7d4a2a&height=3&section=header" alt=""/>
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:c026d3,100:22d3ee&height=2&section=header" alt=""/>
 </div>
 
-<!-- ─── STATS ─────────────────────────────────────────────────────────── -->
+<br/>
+
+<!-- ─── COMPLETED QUESTS ──────────────────────────────────────────────── -->
 
 <div align="center">
-  <sub><b>· &nbsp; S T A T S &nbsp; ·</b></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=480&lines=%E2%96%B6+COMPLETED+QUESTS" alt="completed quests"/>
 
   <br/><br/>
 
-  <img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=onyx766&bg_color=FAFAFA&color=1B4B75&line=B87A3D&point=9A5555&area=true&area_color=1B4B75&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Quest</th>
+      <th align="left">Loadout</th>
+      <th align="center">Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>HomeSprint</b><br/><sub>home-buying command center</sub></td>
+      <td><sub>Next.js · FastAPI · Tailwind</sub></td>
+      <td align="center">S</td>
+    </tr>
+    <tr>
+      <td><b>Sam Intel</b><br/><sub>federal recompete radar</sub></td>
+      <td><sub>Next.js · D3 · Supabase</sub></td>
+      <td align="center">S</td>
+    </tr>
+    <tr>
+      <td><b>VinylSheetz</b><br/><sub>crate-digger's archive</sub></td>
+      <td><sub>React · Tauri · SQLite · MusicBrainz</sub></td>
+      <td align="center">A</td>
+    </tr>
+    <tr>
+      <td><b>CodeClash</b><br/><sub>competitive coding arena</sub></td>
+      <td><sub>Node · Prisma · WebSockets</sub></td>
+      <td align="center">A</td>
+    </tr>
+    <tr>
+      <td><b>Multi-Model AI Chatbot</b><br/><sub>one prompt, many brains</sub></td>
+      <td><sub>TypeScript · Streaming APIs</sub></td>
+      <td align="center">A</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:5b21b6,50:c026d3,100:22d3ee&height=2&section=header" alt=""/>
+</div>
+
+<br/>
+
+<!-- ─── ACHIEVEMENTS ──────────────────────────────────────────────────── -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=1&pause=999999&color=FBBF24&center=true&vCenter=true&width=460&lines=%E2%96%B6+ACHIEVEMENTS" alt="achievements"/>
 
   <br/><br/>
 
-  <img height="170" src="https://streak-stats.demolab.com?user=onyx766&hide_border=true&background=FAFAFA&stroke=E4E4E7&ring=1B4B75&fire=B87A3D&currStreakLabel=1B4B75&sideLabels=18181B&dates=71717A&currStreakNum=18181B&sideNums=18181B" alt="streak"/>
+<img src="https://github-profile-trophy.vercel.app/?username=onyx766&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies"/>
 
 </div>
 
@@ -165,4 +228,8 @@
 
 <!-- ─── FOOTER ────────────────────────────────────────────────────────── -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7d4a2a,25:b87a3d,50:9a5555,75:546988,100:1b4b75&height=120&section=footer&animation=fadeIn" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:22d3ee,15:c026d3,40:9333ea,70:5b21b6,100:1e1b4b&height=140&section=footer&text=CONTINUE%3F%20%20%2010%20.%20.%20.&fontSize=30&fontColor=ffffff&fontAlignY=68&animation=fadeIn" width="100%"/>
+
+</div>
