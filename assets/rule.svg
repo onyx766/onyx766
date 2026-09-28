@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 28" width="1000" height="28" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="rg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#e879f9"/>
+      <stop offset="0.72" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="rGlow" x="-20%" y="-400%" width="140%" height="900%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <style>
+    @keyframes rbreathe { 0%,100%{opacity:.5} 50%{opacity:1} }
+    @keyframes rspin { 0%{transform:rotate(45deg)} 100%{transform:rotate(405deg)} }
+    .rb { animation: rbreathe 3.2s ease-in-out infinite }
+    .rd { animation: rspin 9s linear infinite; transform-origin: 500px 14px; transform-box: view-box }
+  </style>
+  <rect x="0" y="13" width="1000" height="2" fill="url(#rg)" filter="url(#rGlow)" class="rb"/>
+  <rect x="0" y="13" width="1000" height="2" fill="url(#rg)"/>
+  <g class="rd">
+    <rect x="491" y="5" width="18" height="18" fill="#e879f9" filter="url(#rGlow)" opacity="0.75"/>
+    <rect x="493.5" y="7.5" width="13" height="13" fill="#fdf4ff"/>
+  </g>
+</svg>
